@@ -1,6 +1,6 @@
 ![passing](https://github.com/bradmccoydev/aks/actions/workflows/ci.yml/badge.svg) ![GitHub](https://img.shields.io/github/license/bradmccoydev/aks)
-# AKS Labs
-This repo is used for our Azure Kubernetes Service Labs mostly in the Microsoft Reactor and Hashicorp community group
+# AKS Template
+This repo is a template for creating the infrastructure necessary for deployment of a dotnet application using Azure, AKS and Helm
 
 ## Video Links
 * [Hasicorp Community - Creating an AKS Cluster with Terraform](https://www.youtube.com/watch?v=K7Ku6p3nI_c)
